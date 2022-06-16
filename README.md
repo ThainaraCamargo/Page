@@ -7,4 +7,4 @@
 ## Desenvolvimento ##
 - Utilizado Visual Studio Code.
 - Responsividade em construção.
-- Link para teste :
+- Link para teste : https://thainaracamargo.github.io/Page/
